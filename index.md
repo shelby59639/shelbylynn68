@@ -1,6 +1,4 @@
-<!doctype html>
 
-<html>
 
     
 <!-- The head contains metadata specifying character set, calling CSS, allowing the page to work with JavaScript, and the webpage title. -->
@@ -14,7 +12,7 @@
         food, Chinese recipes, menus, location">
         <meta name="viewpoint" content="width=device-width, initial-
         scale=1">
-        <title>My website</title>
+        
 
     <link href="CSS/style.css" rel="stylesheet">
     <link href="https://fonts.goofleapis.com/css2?family=Shadows+Into+Light
@@ -28,7 +26,7 @@
     <!-- This class selector is for the TOWN logo at the top of the page. -->
     
     <div id="logohead_sitemap">
-        <img src="images/town_drop.png" alt="TOWN Restaurant Logo">
+        <img src="town_drop.png" alt="TOWN Restaurant Logo">
     </div>
     
     
