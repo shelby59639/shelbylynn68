@@ -1,5 +1,5 @@
-
-
+<!DOCTYPE html>
+<html>
     
 <!-- The head contains metadata specifying character set, calling CSS, allowing the page to work with JavaScript, and the webpage title. -->
     
